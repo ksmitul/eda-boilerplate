@@ -1,2 +1,2 @@
-# eda-boilerplate
-Boilerplate script for Exploratory Data Analysis  
+# Analysis of Yelp Data
+Boilerplate spark script for performing Exploratory Data Analysis on Yelp data.  
